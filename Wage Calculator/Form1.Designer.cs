@@ -239,7 +239,7 @@
             this.AcceptButton = this.btnCalculate;
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Silver;
+            this.BackColor = System.Drawing.Color.Brown;
             this.CancelButton = this.btnClear;
             this.ClientSize = new System.Drawing.Size(713, 870);
             this.Controls.Add(this.lblResults);
